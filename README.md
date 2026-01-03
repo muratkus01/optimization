@@ -8,7 +8,7 @@ The purpose of this documentation is to ensure transparency and to demonstrate t
 **This project was supported by VERBUND AG.**
 
 The analysis is structured into three core components:
-1.  **Base Case Analysis**: Comparing techno-economic results of Optimized BESS, Rule-Based BESS, and the **Base Case (PV without BESS)** scenario for a single representative household in Bavaria, Munich.
+1.  **Techno-Economic Analysis**: Comparing techno-economic results of Optimized BESS, Rule-Based BESS, and the **Base Case (PV without BESS)** scenario for a single representative household in Bavaria, Munich.
 2.  **Sensitivity Analysis**: Evaluating system profitability (ROCE) across a wide range of PV, Battery, and Inverter sizing configurations. This includes identifying optimal BESS and Inverter sizes for fixed PV capacities (5, 10, 15 kWp).
 3.  **Germany-Wide Impact**: Aggregating results across all 16 federal states to estimate the potential grid impact and economic benefits of widespread BESS adoption throughout the country.
 
@@ -117,3 +117,4 @@ Run the analysis scripts:
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details."# optimization" 
+
